@@ -137,3 +137,8 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/.idea/extrim-backend.iml
+/.idea/modules.xml
